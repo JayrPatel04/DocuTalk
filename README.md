@@ -13,10 +13,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/JSON-black?logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/npm-red?logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostCSS-dd3a0a?logo=postcss&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/PostCSS-dd3a0a?logo=postcss&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/DaisyUI-15c4a3?logo=daisyui&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-4B3263?logo=langchain&logoColor=white" />
