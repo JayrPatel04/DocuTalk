@@ -2,9 +2,9 @@
 <p align="center"><em>Transform PDFs into Intelligent Conversations Effortlessly</em></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20commit-today-brightgreen" />
+<!--   <img src="https://img.shields.io/badge/last%20commit-today-brightgreen" />
   <img src="https://img.shields.io/badge/typescript-89.6%25-blue" />
-  <img src="https://img.shields.io/badge/languages-3-blueviolet" />
+  <img src="https://img.shields.io/badge/languages-3-blueviolet" /> -->
 </p>
 
 ---
